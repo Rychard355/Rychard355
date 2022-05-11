@@ -1,7 +1,7 @@
 - 👋 Ola, sou  Rychard Antony Pereira de Arruada;
 - 👀 No momento, estou interessado em encontrar um emprego como desenvolvedor wab;
 - 🌱 Agora estou me aprofundo no funciona da feramenta que agora você esta utilizando, github;
-- 💞️ Pretendo me especializar no Back-end, mas tabém procuro aprender sobre o Front-end;
+- 💞️ Quero me tornar o melhor programador que sou capaz de ser!;
 - 📫 Meu email é rychardapa@gmail.com.
 
 <!---
